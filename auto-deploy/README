@@ -1,0 +1,2 @@
+
+I use this little script to upload a tarball containing a new version of my code to remote hosts,backup the old version,extract it and that's all.
